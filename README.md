@@ -4,6 +4,8 @@ Forest 🌲
 
 ![2021-May-27](https://user-images.githubusercontent.com/67771985/119868414-89f64e80-bf0e-11eb-8cc9-bcdbd006fc7e.png)
 
+ # NOTE: this theme is only being updated on [themes.nvim](https://github.com/rafamadriz/themes.nvim)
+
 Just an slightly modified version of
 [serenade](https://github.com/b4skyx/serenade), all credits to
 [b4skyx](https://github.com/b4skyx/serenade).
